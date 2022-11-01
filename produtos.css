@@ -34,15 +34,15 @@ nav a:hover{
 }
 
 .produtos{
-	width: 2800px; 
+	width: 2600px; 
 	margin: 0 auto ;
-	padding: 50px 0;
+	padding: 60px 300px;
 }
 
 .produtos li {
      display: inline-block;
      text-align: center;
-     width: 35% ;
+     width: 30% ;
      vertical-align: top;
      margin: 0 1.5%;
      padding: 30px 20px;
@@ -76,4 +76,16 @@ nav a:hover{
 	font-size: 22px;
 	font-weight: bold;
 	margin-top: 10px;
+}
+
+footer {
+	text-align: center;
+	background: url("bg2.jpg");
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #A9A9A9;
+	font-size: 14px;
+	margin: 20px 0 0;
 }
